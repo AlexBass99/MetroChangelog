@@ -30,7 +30,7 @@ NPCs existentes:
 
 # v0.2
 
-## **MEJORA** - _NPCs de tamaño variable:_ 
+### **MEJORA** - _NPCs de tamaño variable:_ 
 Los mutantes ahora al ser spawneados tienen una variabilidad en la escala de su modelo. Adicionalmente algunos de esos mutantes al aparecer pueden tener una escala más grande de lo normal y ser más fuertes, a estos mutantes los llamamos "Alphas".
 
 
