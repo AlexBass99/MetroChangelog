@@ -2,12 +2,20 @@
 ### _Buenas Granjeros, aquí tenéis el changelog de todo lo desarrollado durante estas updates, está separado por bloques de desarrollo para que sea más fácil de leer y veáis como ha ido avanzando todo._
 
 # v0.5
-
 ### **MEJORA** - _Orden de mover al Perro:_ 
 Ahora el Perro tiene la orden de moverlo, para evitar que se quede atascado en zonas para seguirte, si eliges esta opción tendrás unos cuantos segundos para moverte a la zona deseada y mirar a donde quieres que aparezca.
 
 ### **MEJORA** - _Lurker domesticado completamente actualizado:_ 
 Todo el sistema de ordenes del Perro ha sido pasado al Lurker. A falta de animaciones muchas de ellas son las base del mismo y no tiene las de herido, olfatear, tumbarse, etc... Por lo demás las ordenes a nivel funcional son exactamente iguales.
+
+### **MEJORA** - _Sonidos a las Ratas:_
+Se han añadido sonidos básicos a las ratas como el de morir, atacar o el de sus estado neutral.
+
+### **NUEVO** - _Sombra:_ - _**Neutral**_
+Añadido el NPC de las Sombras, hacen daño al contacto y son invisibles de manera normal, es necesario iluminarlas con la linterna para verlas. Se mueven y patrullan lentamente su zona. Son invulnerables a cualquier daño y por lo tanto nunca atacarán a nadie activamente.
+
+### **MEJORA** - _Sonidos a las Sombras:_
+Se han añadido sonidos a las Sombras para que a parte de por recibir daño al entrar en contacto con una, sepas de su presencia. Sus pasos se escuchan aunque no las veas y emiten sonidos del pasado cada cierto tiempo.
 
 ***En proceso...***
 
