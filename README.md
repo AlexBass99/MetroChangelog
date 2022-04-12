@@ -17,6 +17,9 @@ Añadido el NPC de las Sombras, hacen daño al contacto y son invisibles de mane
 ### **MEJORA** - _Sonidos a las Sombras:_
 Se han añadido sonidos a las Sombras para que a parte de por recibir daño al entrar en contacto con una, sepas de su presencia. Sus pasos se escuchan aunque no las veas y emiten sonidos del pasado cada cierto tiempo.
 
+### **MEJORA** - _Animaciones a las Sombras:_
+A partir de ahora las Sombras cada vez que lleguen a un punto y se paren tienen ciertas probabilidades de realizar algunas animaciones.
+
 ***En proceso...***
 
 # v0.4
