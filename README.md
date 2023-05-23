@@ -116,4 +116,6 @@ Ahora los Oscuros pueden teletransportarse a la espalda de un enemigo lejano par
 ## **FIX** _Probabilidad de Stagger:_
 Ajustada la probabilidad de ser tambaleadas en todas las arañas y escorpiones.
 
+# v0.6
+
 ***En proceso...***
