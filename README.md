@@ -27,7 +27,7 @@ NPCs existentes:
 
 - Perro - _(Neutral solo para los Jugadores a no ser que sea atacado, si interactúas con él tiene distintas órdenes)_ - _**Neutral**_ 
 
-# v0.2
+# v0.2 (Febrero de 2022)
 
 ## **MEJORA** - _NPCs de tamaño variable:_ 
 Los mutantes ahora al ser spawneados tienen una variabilidad en la escala de su modelo. Adicionalmente algunos de esos mutantes al aparecer pueden tener una escala más grande de lo normal y ser más fuertes, a estos mutantes los llamamos "Alphas".
@@ -51,7 +51,7 @@ A partir de ahora la frecuencia con la que los mutantes crean sonidos será más
 ## **FIX** - _Sistema de relaciones de Oscuros y Bibliotecarios:_ 
 Se han hecho algunos ajustes a su sistema de neutralidad ligado a su población.
 
-# v0.3
+# v0.3 (Junio de 2022)
 
 ## **MEJORA** - _Añadido sonido de pasos a la mayoría de mutantes:_ 
 A excepción del Oscuro por motivos de diseño, que creo que no necesita tenerlos, todos los NPCs tienen sonidos de movimiento ligados a su animación.
@@ -71,7 +71,7 @@ Con un simple cambio se ha arreglado el bug en el que si le atacabas con una gra
 ## **MEJORA** - _Las Nosalis hembra tienen nuevo ataque:_ 
 Se ha desechado el ataque a distancia y en área que tenían originalmente. Ahora tiene un lejano ataque a distancia, es débil pero puede ser molesto, tiene su tiempo de apuntado y su sonido propio y reconocible. Si impacta directamente o cerca del jugador causa un efecto de pitido en los oídos.
 
-# v0.4
+# v0.4 (Octubre de 2022)
 
 ## **NUEVO** - _Arácnidos de Metro Exodus:_ - _**Hostil**_ 
 Añadidas las Arañas y Escorpiones de Metro Exodus, funcionan exactamente igual que las normales solo que tienen esa variación de modelos.
@@ -96,7 +96,7 @@ Se han añadido algunas animaciones Idle nuevas, en caso de tener baja la salud 
 ## **MEJORA** - _Sistema de Búsqueda del Perro:_ 
 La orden del perro de búsqueda hace que olfatee y busque a su alrededor la entidad más cercana, y fuera de su campo de visión. Entidades como Mutantes, Jugadores o Cajas de Loot incluso. Durante el trayecto de llevarte hasta esa posición, estará andando mientras olfatea el suelo. Dependiendo de lo que sea que haya ha encontrado actuará de alguna manera u otra, estaos atentos a como actúa o que sonidos hace pues puede que os lleve a una gloriosa arma antigua o al nido de unos mutantes.
 
-# v0.5
+# v0.5 (Abril de 2023)
 
 ## **MEJORA** - _Añadido 'stun' al ataque de la Nosalis Hembra:_ 
 A partir de ahora cuando eres impactado por su grito, tienes la vista emborronada durante unos segundos mientras tus oídos retumban.
