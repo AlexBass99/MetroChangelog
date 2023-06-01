@@ -124,6 +124,7 @@ Ahora gracias a un conjunto de efectos y funciones los Lurker pueden excavar al 
 ## **MEJORA** - _Excavar de Arácnidos:_ 
 Ahora todas las variantes de Arácnidos tienen el efecto de excavar usado en los Lurkers.
 
-
+## **FIX** _Ajustada la altura de escalado de los NPCs:_
+Con el objetivo de evitar que se vayan del mapa escalando por la pared a causa de un error se ha ajustado la altura a la espera de testearlo.
 
 ***En proceso...***
