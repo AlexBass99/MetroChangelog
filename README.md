@@ -116,6 +116,14 @@ Ahora los Oscuros pueden teletransportarse a la espalda de un enemigo lejano par
 ## **FIX** _Probabilidad de Stagger:_
 Ajustada la probabilidad de ser tambaleadas en todas las arañas y escorpiones.
 
-# v0.6
+# v0.6 (Junio de 2023)
+
+## **NUEVO** - _Lurkers excavan:_
+Ahora gracias a un conjunto de efectos y funciones los Lurker pueden excavar al recibir daño.
+
+## **MEJORA** - _Excavar de Arácnidos:_ 
+Ahora todas las variantes de Arácnidos tienen el efecto de excavar usado en los Lurkers.
+
+
 
 ***En proceso...***
