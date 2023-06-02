@@ -127,4 +127,6 @@ Ahora todas las variantes de Arácnidos tienen el efecto de excavar usado en los
 ## **FIX** _Ajustada la altura de escalado de los NPCs:_
 Con el objetivo de evitar que se vayan del mapa escalando por la pared a causa de un error se ha ajustado la altura a la espera de testearlo.
 
+## **MEJORA** - _Tiempo de excavado y salida:_ 
+Ahora todos los NPCs que tengan la habilidad de excavar a parte de mantenerse bajo tierra un número aleatorio de segundos salen por un lugar distinto del que entraron.
 ***En proceso...***
