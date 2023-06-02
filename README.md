@@ -129,4 +129,5 @@ Con el objetivo de evitar que se vayan del mapa escalando por la pared a causa d
 
 ## **MEJORA** - _Tiempo de excavado y salida:_ 
 Ahora todos los NPCs que tengan la habilidad de excavar a parte de mantenerse bajo tierra un número aleatorio de segundos salen por un lugar distinto del que entraron.
+
 ***En proceso...***
